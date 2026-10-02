@@ -5,6 +5,7 @@
 
 ＃プログラムについて 
 ・java_calculator/src/に制作したプログラムがあります。
+・github上で動かすには右上緑色の<code>→codespace→mainを選択後、少し待ってから.javaファイルをRunしてください。
 ・Main.javaではコンソール画面を用いて二つの値を計算するJavaのプログラムになっています 
 ・CalculatorGUI.javaではswingを用いたGUI付きの電卓になっています。
 ・swingに関してはgithub上では動作しないため、VSCodeなどjavaを稼働させる環境を構築してご利用ください。
